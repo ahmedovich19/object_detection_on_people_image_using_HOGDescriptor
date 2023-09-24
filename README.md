@@ -1,0 +1,1 @@
+# object_detection_on_people_image_using_HOGDescriptor
